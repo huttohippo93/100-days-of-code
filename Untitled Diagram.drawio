@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T20:17:23.230Z" agent="5.0 (Windows)" version="14.1.8" etag="gFjiQkvvcSFOaBLLOg_w" type="github"><diagram id="CCTdXMUwub38kpw-iW7L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-18T20:26:03.816Z" agent="5.0 (Windows)" etag="l6pEfVOIkID367iV722Y" version="14.1.8" type="github">
+  <diagram id="CCTdXMUwub38kpw-iW7L" name="Page-1">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xd6laVNliTMk3MLiW5px-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-1" target="Xd6laVNliTMk3MLiW5px-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-2" target="Xd6laVNliTMk3MLiW5px-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-2" value="&lt;div&gt;Show art from &lt;br&gt;&lt;/div&gt;&lt;div&gt;art.py&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-4" target="Xd6laVNliTMk3MLiW5px-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-4" value="Ask for Name input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-5" target="Xd6laVNliTMk3MLiW5px-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-5" value="Ask for Bid price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-8" target="Xd6laVNliTMk3MLiW5px-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-8" value="Add Name and Bid into dictionary as key and value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-10" target="Xd6laVNliTMk3MLiW5px-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-10" target="Xd6laVNliTMk3MLiW5px-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-10" value="&lt;div&gt;Ask if there are other&lt;/div&gt;&lt;div&gt; users who want to bid&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="530" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xd6laVNliTMk3MLiW5px-12" target="Xd6laVNliTMk3MLiW5px-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-12" value="Clear the screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-14" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd6laVNliTMk3MLiW5px-16" value="Find the highest bid in the dictionary and declare them as the winner" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
